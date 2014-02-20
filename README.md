@@ -1,4 +1,4 @@
-cobol---ide
+cobol ide
 ===========
 
-cobol project
+Goal is to create small, convenient ide for educational cobol projects.
